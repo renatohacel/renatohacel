@@ -26,8 +26,6 @@ languages: Spanish (native) · English (B2)
 interests: Performance optimization · Automation · Clean architecture
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renotlacuache&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="320"/>
-
 - 💡 Passionate about turning complex problems into clean solutions
 - 🏛️ Currently building citizen-facing platforms at **Gobierno de Zapopan**
 - ⚡ Love optimizing systems — made legacy DBs **80% faster**
